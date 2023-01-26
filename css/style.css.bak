@@ -1,0 +1,10 @@
+
+  div{
+	border : 1px solid red;
+	 
+  }
+   
+   .myClas{
+     border-style: hidden;
+   }
+  	
